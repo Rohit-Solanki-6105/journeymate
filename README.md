@@ -27,6 +27,9 @@ Journey Mate offers an all-in-one solution for travelers, administrators, and ch
 ## 📸 System Interface Previews
 
 ### Home:
+
+![Home](./jm.png)
+
 ### ADMIN:
 ### Checker:
 
