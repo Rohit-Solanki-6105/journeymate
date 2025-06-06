@@ -1,6 +1,8 @@
 # 🌍 Journey Mate
 
-[Link: https://journey-mate-1.onrender.com](https://journey-mate-1.onrender.com)
+[Link1: https://journeymate.vercel.app](https://journeymate.vercel.app)
+
+[Link2: https://journey-mate-1.onrender.com](https://journey-mate-1.onrender.com)
 
 Journey Mate is your smart travel assistant – a modern web-based travel management system built for planning, booking, and managing tours with ease. Designed as a **BSc Computer Science Semester 6 project**, it features a **multi-user architecture**, **QR-based booking verification**, and a complete **admin dashboard** for full control.
 
