@@ -97,16 +97,7 @@ Journey Mate offers an all-in-one solution for travelers, administrators, and ch
 | 🎓 Course | BSc Computer Science |
 | 🗓️ Semester | 6th Semester |
 | 📅 Academic Year | 2024–2025 |
-| 📌 Project Type | Final Year Academic Project |
-
----
-
-## 🤝 Contact & Feedback
-
-If you're interested in collaborating, hiring, or have any feedback on the project:
-
-👉 [Contact Me](mailto:solanki.rohit.harishbhai@gmail.com)  
-📞 Phone: +91 9099536912
+| 📌 Project Type | Semester 6 Academic Project |
 
 ---
 
