@@ -34,7 +34,7 @@ Journey Mate offers an all-in-one solution for travelers, administrators, and ch
 ### ADMIN:
 ![admin](./admin.png)
 
-![Insights Tables](./table%20dialogs for insights.png)
+![Insights Tables](./table%_dialogs_for_insights.png)
 
 ### Checker:
 ![Checker](./scanning.png)
